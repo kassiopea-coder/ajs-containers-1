@@ -1,4 +1,4 @@
-//класс из прошлого дз
+// класс из прошлого дз
 const types = ['Bowman', 'Swordsman', 'Magician', 'Daemon', 'Undead', 'Zombie'];
 export default class Character {
   constructor(name, type) {
